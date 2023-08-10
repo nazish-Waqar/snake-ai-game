@@ -1,5 +1,5 @@
 # snake-ai-game
-# AI behaviour for snake gamwe
+# AI behaviour for snake game
 
 
 
