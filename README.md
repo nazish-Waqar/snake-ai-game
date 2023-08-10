@@ -1,10 +1,10 @@
 # snake-ai-game
 # AI behaviour for snake gamwe
 
-Please make sure that the report is no longer than 500 words.
+
 
 ## Author: Nazish waqar
-Note: add une_ai folder into following path (../../../../../../Python311/Lib/site-packages/une_ai)
+Note: unzip une_ai.zip and add une_ai folder into following path (../../../../../../Python311/Lib/site-packages/une_ai)
 ## Class of the Agent Program:
 
 The agent program can be classified as a goal-based agent. A goal-based agent is one that operates based on the concept of achieving specific goals or objectives. In this case, the agent's primary goal is to find and reach the nearest food source to increase its score in the Snake game. The agent uses the A* algorithm, a search-based technique, to find the shortest path to the food source while avoiding obstacles and its own body.
